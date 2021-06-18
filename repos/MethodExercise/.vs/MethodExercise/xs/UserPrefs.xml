@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{D8668597-D6B5-4E27-9335-977449DDEB0F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../SyntaxSugarExerciseFinish">
+﻿<Properties StartupConfiguration="{01E552DE-4AE7-43AB-ACF5-567569A546EE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="MethodExercise/Program.cs">
     <Files>
-      <File FileName="SyntaxSugarExercise/Program.cs" Line="13" Column="121" />
+      <File FileName="MethodExercise/Program.cs" Line="25" Column="13" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SyntaxSugarExercise" expanded="True">
-            <Node name="SyntaxSugarExercise" expanded="True">
+          <Node name="MethodExercise" expanded="True">
+            <Node name="MethodExercise" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,9 +18,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SyntaxSugarExercise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MethodExercise FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

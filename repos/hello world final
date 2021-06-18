@@ -1,0 +1,106 @@
+Last login: Wed Jun  9 10:21:24 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+Dasheas-MacBook-Air:~ dasheajohnson$ ~ % cd repos
+-bash: /Users/dasheajohnson: is a directory
+Dasheas-MacBook-Air:~ dasheajohnson$ mkdir HelloWorld
+Dasheas-MacBook-Air:~ dasheajohnson$ cd HelloWorld
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ mkdir HelloWorld
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ cd HelloWorld
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ git init
+Initialized empty Git repository in /Users/dasheajohnson/HelloWorld/HelloWorld/.git/
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet new console
+
+Welcome to .NET 5.0!
+---------------------
+SDK Version: 5.0.203
+
+Telemetry
+---------
+The .NET tools collect usage data in order to help us improve your experience. It is collected by Microsoft and shared with the community. You can opt-out of telemetry by setting the DOTNET_CLI_TELEMETRY_OPTOUT environment variable to '1' or 'true' using your favorite shell.
+
+Read more about .NET CLI Tools telemetry: https://aka.ms/dotnet-cli-telemetry
+
+----------------
+Installed an ASP.NET Core HTTPS development certificate.
+To trust the certificate run 'dotnet dev-certs https --trust' (Windows and macOS only).
+Learn about HTTPS: https://aka.ms/dotnet-https
+----------------
+Write your first app: https://aka.ms/dotnet-hello-world
+Find out what's new: https://aka.ms/dotnet-whats-new
+Explore documentation: https://aka.ms/dotnet-docs
+Report issues and find source on GitHub: https://github.com/dotnet/core
+Use 'dotnet --help' to see available commands or visit: https://aka.ms/dotnet-cli
+--------------------------------------------------------------------------------------
+Getting ready...
+The template "Console Application" was created successfully.
+
+Processing post-creation actions...
+Running 'dotnet restore' on /Users/dasheajohnson/HelloWorld/HelloWorld/HelloWorld.csproj...
+  Determining projects to restore...
+  Restored /Users/dasheajohnson/HelloWorld/HelloWorld/HelloWorld.csproj (in 131 ms).
+Restore succeeded.
+
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet build
+Microsoft (R) Build Engine version 16.9.0+57a23d249 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  HelloWorld -> /Users/dasheajohnson/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.32
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet run
+Hello World!
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ cd ..
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ cd ..
+Dasheas-MacBook-Air:~ dasheajohnson$ open .
+Dasheas-MacBook-Air:~ dasheajohnson$ cd repos
+Dasheas-MacBook-Air:repos dasheajohnson$ cd HelloWorld/
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet run
+Couldn't find a project to run. Ensure a project exists in /Users/dasheajohnson/repos/HelloWorld, or pass the path to the project using --project.
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ cd HelloWorld/
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet run
+Hello World!
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet build
+Microsoft (R) Build Engine version 16.9.0+57a23d249 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  HelloWorld -> /Users/dasheajohnson/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:05.65
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet run
+Hello World!
+dotnet build
+hello, dotnet build
+Hello, what year is it?
+2021
+Hello dotnet build in the year of 2021
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet build
+Microsoft (R) Build Engine version 16.9.0+57a23d249 for .NET
+Copyright (C) Microsoft Corporation. All rights reserved.
+
+  Determining projects to restore...
+  All projects are up-to-date for restore.
+  HelloWorld -> /Users/dasheajohnson/repos/HelloWorld/HelloWorld/bin/Debug/net5.0/HelloWorld.dll
+
+Build succeeded.
+    0 Warning(s)
+    0 Error(s)
+
+Time Elapsed 00:00:02.78
+Dasheas-MacBook-Air:HelloWorld dasheajohnson$ dotnet run
+Hello What is your name?
+

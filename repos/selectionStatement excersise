@@ -1,0 +1,37 @@
+﻿using System;
+
+namespace CSharpSelectionStatements
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine {"Welcome to the guessing game!"}
+            Console.WriteLine { "See if you can guess the correct number!"}
+
+            var userResponse = Console.ReadLine();
+
+            var upperLimit = int.Parse(userResponse);
+
+            var random = new Random();
+            var number = random.Next(1, 50);
+
+            Console.WriteLine("Welcome to the number guessing game!");
+
+            var guess = int.Parse(Console.ReadLine());
+
+            if (guess > number)
+            {
+                Console.WriteLine("Wrong, too high try again!");
+            }
+            else if (guess < number) ;
+            {
+                Console.WriteLine("No! your number is too low, Sorry");
+            }
+            else
+            {
+                Console.WriteLine("Correct!");
+            }
+        }
+    }
+}

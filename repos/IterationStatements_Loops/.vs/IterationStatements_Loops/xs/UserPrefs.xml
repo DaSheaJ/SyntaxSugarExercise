@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{D8668597-D6B5-4E27-9335-977449DDEB0F}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="../SyntaxSugarExerciseFinish">
+﻿<Properties StartupConfiguration="{33C65F94-7DF0-42AB-B530-8D64B6E10EA4}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="IterationStatements_Loops/Program.cs">
     <Files>
-      <File FileName="SyntaxSugarExercise/Program.cs" Line="13" Column="121" />
+      <File FileName="IterationStatements_Loops/Program.cs" Line="8" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="SyntaxSugarExercise" expanded="True">
-            <Node name="SyntaxSugarExercise" expanded="True">
+          <Node name="IterationStatements_Loops" expanded="True">
+            <Node name="IterationStatements_Loops" expanded="True">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -18,8 +18,8 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.SyntaxSugarExercise PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.IterationStatements__Loops FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

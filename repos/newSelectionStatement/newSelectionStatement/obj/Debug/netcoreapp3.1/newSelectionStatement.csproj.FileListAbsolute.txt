@@ -1,0 +1,12 @@
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.csprojAssemblyReference.cache
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.AssemblyInfoInputs.cache
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.AssemblyInfo.cs
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.csproj.CoreCompileInputs.cache
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/bin/Debug/netcoreapp3.1/newSelectionStatement.deps.json
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/bin/Debug/netcoreapp3.1/newSelectionStatement.runtimeconfig.json
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/bin/Debug/netcoreapp3.1/newSelectionStatement.runtimeconfig.dev.json
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/bin/Debug/netcoreapp3.1/newSelectionStatement.dll
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/bin/Debug/netcoreapp3.1/newSelectionStatement.pdb
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.dll
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.pdb
+/Users/dasheajohnson/repos/newSelectionStatement/newSelectionStatement/obj/Debug/netcoreapp3.1/newSelectionStatement.genruntimeconfig.cache
