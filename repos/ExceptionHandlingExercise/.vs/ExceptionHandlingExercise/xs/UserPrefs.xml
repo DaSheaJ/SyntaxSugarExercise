@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{20AEE214-F6CB-4DA1-94E3-43C1E49DFAA4}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExceptionHandlingExercise PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExceptionHandlingExercise/Program.cs">
+    <Files>
+      <File FileName="ExceptionHandlingExercise/Program.cs" Line="38" Column="68" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExceptionHandlingExercise" expanded="True">
+            <Node name="ExceptionHandlingExercise" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
